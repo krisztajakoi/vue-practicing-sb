@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <img width="25%" src="./assets/logo.png">
+    test
     <HelloWorld msg="Hello Vue in CodeSandbox!" />
     <div>Mindenkinek annyi baja van és az annyi bajnak annyi baja van...hogy annyi baj legyen</div>
   </div>
