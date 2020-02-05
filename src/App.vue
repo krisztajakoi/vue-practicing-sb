@@ -1,11 +1,9 @@
 <template>
   <div id="app">
-    <img width="25%" src="./assets/logo.png">
+    <img width="25%" src="./assets/logo.png" data>
     testelek
     <HelloWorld msg="Hello Vue in CodeSandbox!" />
-    <div>Mindenkinek annyi baja van és az annyi bajnak annyi baja van...hogy annyi baj legyen</div>
   </div>
-
 </template>
 
 <script>
@@ -17,8 +15,8 @@ export default {
   components: {
     HelloWorld
   },
-  created () {
-    practice(this)
+  created() {
+    console.log("béla");
   }
 };
 </script>
