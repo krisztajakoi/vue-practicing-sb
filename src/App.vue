@@ -9,15 +9,13 @@
 
 <script>
 import HelloWorld from "./components/HelloWorld";
-import { practice } from "./functions";
-
 export default {
   name: "App",
   components: {
     HelloWorld
   },
   created() {
-    console.log("béla");
+    console.log("béla válto");
   }
 };
 </script>
