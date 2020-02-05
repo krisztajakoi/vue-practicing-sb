@@ -5,6 +5,7 @@
     <HelloWorld msg="Hello Vue in CodeSandbox!" />
     <div>Mindenkinek annyi baja van és az annyi bajnak annyi baja van...hogy annyi baj legyen</div>
   </div>
+
 </template>
 
 <script>
