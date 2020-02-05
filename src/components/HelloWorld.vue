@@ -18,7 +18,7 @@
         >eslint</a>
       </li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>Essential Béla</h3>
     <ul>
       <li>
         <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
